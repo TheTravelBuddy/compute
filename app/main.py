@@ -18,7 +18,7 @@ trigger_count = 0
 
 
 def generate_recommendations():
-    print("Regenerating recommendations!")
+    print("Updating recommendations!")
 
 
 @app.get("/trigger")

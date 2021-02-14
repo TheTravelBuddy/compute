@@ -7,10 +7,6 @@ name = "pypi"
 fastapi = "*"
 neomodel = "*"
 uvicorn = "*"
-numpy = "*"
-tensorflow = "*"
-scipy = "*"
-sklearn = "*"
 
 [dev-packages]
 flake8 = "*"
